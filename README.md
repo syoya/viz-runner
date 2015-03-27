@@ -4,13 +4,13 @@ Run [mdaines/viz.js](https://github.com/mdaines/viz.js/) in your html and render
 
 ## Usage
 
-1. Add script into your html.
+1\. Add script into your html.
 
 ```html
 <script src="https://cdn.rawgit.com/syoya/viz-runner/master/viz-runner.js"></script>
 ```
 
-2. Write [DOT](http://en.wikipedia.org/wiki/DOT_(graph_description_language)) language into `<script type="text/viz"></script>`.
+2\. Write [DOT](http://en.wikipedia.org/wiki/DOT_(graph_description_language)) language into `<script type="text/viz"></script>`.
 
 ```html
 <script type="text/viz">
