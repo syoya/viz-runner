@@ -1,6 +1,6 @@
 (function() {
   var script = document.createElement('script');
-  script.setAttribute('src', 'https://mdaines.github.io/viz.js/viz.js');
+  script.setAttribute('src', 'http://mdaines.github.io/viz.js/bower_components/viz.js/viz.js');
   script.onload = function() {
     [].forEach.call(document.querySelectorAll('script[type="text/viz"]'), function(s) {
       var code = s.innerText || s.textContent;
