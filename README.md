@@ -7,7 +7,7 @@ Run [mdaines/viz.js](https://github.com/mdaines/viz.js/) in your html and render
 1\. Add script into your html.
 
 ```html
-<script src="https://cdn.rawgit.com/syoya/viz-runner/master/viz-runner.js"></script>
+<script src="https://rawgit.com/syoya/viz-runner/master/viz-runner.js"></script>
 ```
 
 2\. Write [DOT](http://en.wikipedia.org/wiki/DOT_(graph_description_language)) language into `<script type="text/viz"></script>`.
